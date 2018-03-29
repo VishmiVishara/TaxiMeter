@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-10-12T18:04:05</date>
+  <millis>1507811645985</millis>
+  <sequence>1</sequence>
+  <logger>models.admin.Account</logger>
+  <level>WARNING</level>
+  <class>controllers.AccountController</class>
+  <method>performTransaction</method>
+  <thread>40</thread>
+  <message>Invalid procedures by : 1</message>
+</record>
+<record>
+  <date>2017-10-12T18:04:38</date>
+  <millis>1507811678440</millis>
+  <sequence>2</sequence>
+  <logger>models.admin.Account</logger>
+  <level>WARNING</level>
+  <class>controllers.AccountController</class>
+  <method>performTransaction</method>
+  <thread>42</thread>
+  <message></message>
+</record>
+<record>
+  <date>2017-10-12T18:04:38</date>
+  <millis>1507811678455</millis>
+  <sequence>3</sequence>
+  <logger>models.admin.Account</logger>
+  <level>WARNING</level>
+  <class>controllers.AccountController</class>
+  <method>performTransaction</method>
+  <thread>42</thread>
+  <message>Invalid procedures by : 1</message>
+</record>
+<record>
+  <date>2017-10-12T18:04:40</date>
+  <millis>1507811680432</millis>
+  <sequence>4</sequence>
+  <logger>models.admin.Account</logger>
+  <level>WARNING</level>
+  <class>controllers.AccountController</class>
+  <method>performTransaction</method>
+  <thread>42</thread>
+  <message></message>
+</record>
+<record>
+  <date>2017-10-12T18:04:40</date>
+  <millis>1507811680438</millis>
+  <sequence>5</sequence>
+  <logger>models.admin.Account</logger>
+  <level>WARNING</level>
+  <class>controllers.AccountController</class>
+  <method>performTransaction</method>
+  <thread>42</thread>
+  <message>Invalid procedures by : 1</message>
+</record>
